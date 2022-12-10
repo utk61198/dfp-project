@@ -2,8 +2,8 @@ import streamlit as st
 import pandas as pd
 import functions
 st.set_page_config(layout='wide')
-st.snow()
-st.title()
+# st.snow()
+st.title("Soccer Space")
 col1, col2,col3,col4 = st.tabs(["Team","Player","Twitter","Bet odds"])
 with col1:
     # with st.expander("Team"):
