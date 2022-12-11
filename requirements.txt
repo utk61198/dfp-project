@@ -3,3 +3,6 @@ pandas
 numpy
 textblob
 tweepy
+bs4
+statistics
+requests
