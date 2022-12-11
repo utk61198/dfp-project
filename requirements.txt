@@ -6,3 +6,4 @@ tweepy
 bs4
 statistics
 requests
+lxml
