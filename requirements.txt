@@ -7,5 +7,5 @@ bs4
 statistics
 requests
 lxml
-sklearn
+scikit-learn
 plotly
